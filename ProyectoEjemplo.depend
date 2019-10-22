@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1540525236 source:c:\users\walter\documents\unvime\programacion1\proyectoejemplo\main.c
+1571692103 source:c:\users\walter\documents\unvime\programacion1\proyectoejemplo\main.c
 	<stdio.h>
 	<stdlib.h>
+	<windows.h>
 
